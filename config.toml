@@ -1,0 +1,4 @@
+project_id = "jclmguaphkgmhrwqiglq"
+
+[functions.generate-art]
+verify_jwt = false
